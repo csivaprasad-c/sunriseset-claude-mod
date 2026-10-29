@@ -1,0 +1,5 @@
+{
+  "name": "sunriseset-claude-mod",
+  "owner": { "name": "csivaprasad-c" },
+  "plugins": [{ "name": "sun-times", "source": "./" }]
+}
